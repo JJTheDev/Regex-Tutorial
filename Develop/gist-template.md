@@ -98,9 +98,9 @@ In our **regex featured in this tutorial:** `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([
 ## Author
 
 **Deployed GitHub-Gist Link:**
-[Deployed GitHub-Gist Link: Click Here](https://gist.github.com/ThomasCalle/df5f3d3441f4206d9087f9643ffff91e)
+[Deployed GitHub-Gist Link: Click Here](https://gist.github.com/JJTheDev/7ae3c8104464683b8985bf725593dfa9)
 
 **GitHub Repository:**
-[GitHub Repository: Click Here](https://github.com/ThomasCalle/Regex-in-JavaScript-A-Comprehensive-Tutorial-by-Thomas-Calle)
+[GitHub Repository: Click Here](https://github.com/JJTheDev/Regex-Tutorial)
 
 © 2023 [Juan Jimenez](https://github.com/). Confidential and Proprietary. All Rights Reserved.
